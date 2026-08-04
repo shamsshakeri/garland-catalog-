@@ -88,3 +88,32 @@ footer {
     color: #777;
     font-size: 14px;
 }
+.brand h1 {
+    font-size: 48px;
+    letter-spacing: 5px;
+}
+
+.brand p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+
+.intro {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+
+.intro h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+
+.intro p {
+    color: #666;
+    font-size: 18px;
+    max-width: 600px;
+    margin: auto;
+}
