@@ -123,3 +123,34 @@ footer {
     object-fit: contain;
     margin-bottom: 15px;
 }
+.categories{
+    padding:40px 20px;
+    text-align:center;
+}
+
+.categories h2{
+    font-size:32px;
+    margin-bottom:25px;
+}
+
+.category-list{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.category{
+    background:#ffffff;
+    border:1px solid #e5e5e5;
+    padding:15px 30px;
+    border-radius:30px;
+    font-weight:bold;
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.category:hover{
+    background:#111;
+    color:#fff;
+}
