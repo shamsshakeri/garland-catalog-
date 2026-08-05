@@ -395,3 +395,25 @@ footer {
 
 
 }
+/* CATEGORY ICONS */
+
+
+.category img {
+
+    width:70px;
+
+    height:70px;
+
+    object-fit:contain;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.category {
+
+    flex-direction:column;
+
+}
